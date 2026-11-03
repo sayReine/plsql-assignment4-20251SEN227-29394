@@ -1,0 +1,6 @@
+
+
+CREATE OR REPLACE TYPE t_num_tab AS TABLE OF NUMBER;
+/
+
+PROMPT Types created.
